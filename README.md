@@ -3,12 +3,12 @@
 Understand the YouTube content you are watching.
 
 <p align="center">
-  <img src="images/amounts.png" height="300" alt="Amounts">
-  <img src="images/moments.png" height="300" alt="Clustering" style="margin-left: 20px;">
+  <img src="images/amounts.png" width="55%">
+  <img src="images/moments.png" width="40%" style="margin-left: 20px;">
 </p>
 <p align="center">
-    <img src="images/clustering.png" height="300" alt="Clustering" style="margin-right: 20px;">
-  <img src="images/topic_frequency.png" height="300" alt="Amounts">
+    <img src="images/clustering.png" width="44%" style="margin-right: 20px;">
+  <img src="images/topic_frequency.png" width="51%">
 </p>
 
 ## Installation
