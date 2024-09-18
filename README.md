@@ -82,7 +82,7 @@ The script will process the `watch-history.json` file, filtering out ads and use
 
 #### API quota limits
 
-Since the YouTube Data API has a default quota allocation of 10,000 units per day, you may need to run the script across multiple days to process the entire history.
+Since the YouTube Data API has a default quota allocation of 10,000 units per day, you may need to run the script on multiple days to process the entire history.
 
 To manage this, `history_processor.py` generates a `last-processed-history.json` file which stores the index of the last processed history item. If this file exists when the script is run again, processing will resume from where it left off in the previous session.
 
