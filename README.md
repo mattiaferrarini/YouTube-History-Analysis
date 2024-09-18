@@ -1,6 +1,6 @@
 # YouTube History Analysis
 
-Understand the YouTube content you are watching.
+This project provides insights into the type of YouTube content you consume and how you use the platform. It analyzes the number of videos you watch, when you watch them, their topics, and tags. The analysis is performed for various time periods, allowing you to understand how your viewing habits have changed over time.
 
 <p align="center">
   <img src="images/amounts.png" width="55%">
